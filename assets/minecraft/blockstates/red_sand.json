@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "red_sand_00" },
+          { "model": "red_sand_01" },
+          { "model": "red_sand_02" },
+          { "model": "red_sand_03" }
+        ]
+    }
+}

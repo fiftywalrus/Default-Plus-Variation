@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "andesite_00" },
+          { "model": "andesite_01" },
+          { "model": "andesite_02" },
+          { "model": "andesite_03" }
+        ]
+    }
+}

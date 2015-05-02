@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "carpet_magenta_00" },
+          { "model": "carpet_magenta_01" },
+          { "model": "carpet_magenta_02" },
+          { "model": "carpet_magenta_03" }
+        ]
+    }
+}

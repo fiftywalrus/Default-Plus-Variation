@@ -1,0 +1,100 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": [
+          { "model": "bars_nsew_00" },
+          { "model": "bars_nsew_01" },
+          { "model": "bars_nsew_02" },
+          { "model": "bars_nsew_03" }
+        ],
+        "east=false,north=true,south=false,west=false": [
+          { "model": "bars_n_00" },
+          { "model": "bars_n_01" },
+          { "model": "bars_n_02" },
+          { "model": "bars_n_03" }
+        ],
+        "east=true,north=false,south=false,west=false": [
+          { "model": "bars_n_00", "y": 90 },
+          { "model": "bars_n_01", "y": 90 },
+          { "model": "bars_n_02", "y": 90 },
+          { "model": "bars_n_03", "y": 90 }
+        ],
+        "east=false,north=false,south=true,west=false": [
+          { "model": "bars_n_00", "y": 180 },
+          { "model": "bars_n_01", "y": 180 },
+          { "model": "bars_n_02", "y": 180 },
+          { "model": "bars_n_03", "y": 180 }
+        ],
+        "east=false,north=false,south=false,west=true": [
+          { "model": "bars_n_00", "y": 270 },
+          { "model": "bars_n_01", "y": 270 },
+          { "model": "bars_n_02", "y": 270 },
+          { "model": "bars_n_03", "y": 270 }
+        ],
+        "east=true,north=true,south=false,west=false": [
+          { "model": "bars_ne_00" },
+          { "model": "bars_ne_01" },
+          { "model": "bars_ne_02" },
+          { "model": "bars_ne_03" }
+        ],
+        "east=true,north=false,south=true,west=false": [
+          { "model": "bars_ne_00", "y": 90 },
+          { "model": "bars_ne_01", "y": 90 },
+          { "model": "bars_ne_02", "y": 90 },
+          { "model": "bars_ne_03", "y": 90 }
+        ],
+        "east=false,north=false,south=true,west=true": [
+          { "model": "bars_ne_00", "y": 180 },
+          { "model": "bars_ne_01", "y": 180 },
+          { "model": "bars_ne_02", "y": 180 },
+          { "model": "bars_ne_03", "y": 180 }
+        ],
+        "east=false,north=true,south=false,west=true": [
+          { "model": "bars_ne_00", "y": 270 },
+          { "model": "bars_ne_01", "y": 270 },
+          { "model": "bars_ne_02", "y": 270 },
+          { "model": "bars_ne_03", "y": 270 }
+        ],
+        "east=false,north=true,south=true,west=false": [
+          { "model": "bars_ns_00" },
+          { "model": "bars_ns_01" },
+          { "model": "bars_ns_02" },
+          { "model": "bars_ns_03" }
+        ],
+        "east=true,north=false,south=false,west=true": [
+          { "model": "bars_ns_00", "y": 90 },
+          { "model": "bars_ns_01", "y": 90 },
+          { "model": "bars_ns_02", "y": 90 },
+          { "model": "bars_ns_03", "y": 90 }
+        ],
+        "east=true,north=true,south=true,west=false": [
+          { "model": "bars_nse_00" },
+          { "model": "bars_nse_01" },
+          { "model": "bars_nse_02" },
+          { "model": "bars_nse_03" }
+        ],
+        "east=true,north=false,south=true,west=true": [
+          { "model": "bars_nse_00", "y": 90 },
+          { "model": "bars_nse_01", "y": 90 },
+          { "model": "bars_nse_02", "y": 90 },
+          { "model": "bars_nse_03", "y": 90 }
+        ],
+        "east=false,north=true,south=true,west=true": [
+          { "model": "bars_nse_00", "y": 180 },
+          { "model": "bars_nse_01", "y": 180 },
+          { "model": "bars_nse_02", "y": 180 },
+          { "model": "bars_nse_03", "y": 180 }
+        ],
+        "east=true,north=true,south=false,west=true": [
+          { "model": "bars_nse_00", "y": 270 },
+          { "model": "bars_nse_01", "y": 270 },
+          { "model": "bars_nse_02", "y": 270 },
+          { "model": "bars_nse_03", "y": 270 }
+        ],
+        "east=true,north=true,south=true,west=true": [
+          { "model": "bars_nsew_00" },
+          { "model": "bars_nsew_01" },
+          { "model": "bars_nsew_02" },
+          { "model": "bars_nsew_03" }
+        ]
+    }
+}

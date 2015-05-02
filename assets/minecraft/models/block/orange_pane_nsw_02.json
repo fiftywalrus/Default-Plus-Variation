@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_nsw",
+    "textures": {
+        "edge": "blocks/glass_pane_top_orange_02",
+        "pane": "blocks/glass_orange_02"
+    }
+}

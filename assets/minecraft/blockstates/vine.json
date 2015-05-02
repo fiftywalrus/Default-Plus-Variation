@@ -1,0 +1,196 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,up=false,west=false": [
+          { "model": "vine_1_00" },
+          { "model": "vine_1_01" },
+          { "model": "vine_1_02" },
+          { "model": "vine_1_03" }
+        ],
+        "east=false,north=false,south=true,up=false,west=false": [
+          { "model": "vine_1_00" },
+          { "model": "vine_1_01" },
+          { "model": "vine_1_02" },
+          { "model": "vine_1_03" }
+        ],
+        "east=false,north=false,south=false,up=false,west=true": [
+          { "model": "vine_1_00", "y": 90 },
+          { "model": "vine_1_01", "y": 90 },
+          { "model": "vine_1_02", "y": 90 },
+          { "model": "vine_1_03", "y": 90 }
+        ],
+        "east=false,north=true,south=false,up=false,west=false": [
+          { "model": "vine_1_00", "y": 180 },
+          { "model": "vine_1_01", "y": 180 },
+          { "model": "vine_1_02", "y": 180 },
+          { "model": "vine_1_03", "y": 180 }
+        ],
+        "east=true,north=false,south=false,up=false,west=false": [
+          { "model": "vine_1_00", "y": 270 },
+          { "model": "vine_1_01", "y": 270 },
+          { "model": "vine_1_02", "y": 270 },
+          { "model": "vine_1_03", "y": 270 }
+        ],
+        "east=true,north=true,south=false,up=false,west=false": [
+          { "model": "vine_2_00" },
+          { "model": "vine_2_01" },
+          { "model": "vine_2_02" },
+          { "model": "vine_2_03" }
+        ],
+        "east=true,north=false,south=true,up=false,west=false": [
+          { "model": "vine_2_00", "y": 90 },
+          { "model": "vine_2_01", "y": 90 },
+          { "model": "vine_2_02", "y": 90 },
+          { "model": "vine_2_03", "y": 90 }
+        ],
+        "east=false,north=false,south=true,up=false,west=true": [
+          { "model": "vine_2_00", "y": 180 },
+          { "model": "vine_2_01", "y": 180 },
+          { "model": "vine_2_02", "y": 180 },
+          { "model": "vine_2_03", "y": 180 }
+        ],
+        "east=false,north=true,south=false,up=false,west=true": [
+          { "model": "vine_2_00", "y": 270 },
+          { "model": "vine_2_01", "y": 270 },
+          { "model": "vine_2_02", "y": 270 },
+          { "model": "vine_2_03", "y": 270 }
+        ],
+        "east=true,north=false,south=false,up=false,west=true": [
+          { "model": "vine_2_opposite_00" },
+          { "model": "vine_2_opposite_01" },
+          { "model": "vine_2_opposite_02" },
+          { "model": "vine_2_opposite_03" }
+        ],
+        "east=false,north=true,south=true,up=false,west=false": [
+          { "model": "vine_2_opposite_00", "y": 90 },
+          { "model": "vine_2_opposite_01", "y": 90 },
+          { "model": "vine_2_opposite_02", "y": 90 },
+          { "model": "vine_2_opposite_03", "y": 90 }
+        ],
+        "east=true,north=true,south=true,up=false,west=false": [
+          { "model": "vine_3_00" },
+          { "model": "vine_3_01" },
+          { "model": "vine_3_02" },
+          { "model": "vine_3_03" }
+        ],
+        "east=true,north=false,south=true,up=false,west=true": [
+          { "model": "vine_3_00", "y": 90 },
+          { "model": "vine_3_01", "y": 90 },
+          { "model": "vine_3_02", "y": 90 },
+          { "model": "vine_3_03", "y": 90 }
+        ],
+        "east=false,north=true,south=true,up=false,west=true": [
+          { "model": "vine_3_00", "y": 180 },
+          { "model": "vine_3_01", "y": 180 },
+          { "model": "vine_3_02", "y": 180 },
+          { "model": "vine_3_03", "y": 180 }
+        ],
+        "east=true,north=true,south=false,up=false,west=true": [
+          { "model": "vine_3_00", "y": 270 },
+          { "model": "vine_3_01", "y": 270 },
+          { "model": "vine_3_02", "y": 270 },
+          { "model": "vine_3_03", "y": 270 }
+        ],
+        "east=true,north=true,south=true,up=false,west=true": [
+          { "model": "vine_4_00" },
+          { "model": "vine_4_01" },
+          { "model": "vine_4_02" },
+          { "model": "vine_4_03" }
+        ],
+        "east=false,north=false,south=false,up=true,west=false": [
+          { "model": "vine_u_00" },
+          { "model": "vine_u_01" },
+          { "model": "vine_u_02" },
+          { "model": "vine_u_03" }
+        ],
+        "east=false,north=false,south=true,up=true,west=false": [
+          { "model": "vine_1u_00" },
+          { "model": "vine_1u_01" },
+          { "model": "vine_1u_02" },
+          { "model": "vine_1u_03" }
+        ],
+        "east=false,north=false,south=false,up=true,west=true": [
+          { "model": "vine_1u_00", "y": 90 },
+          { "model": "vine_1u_01", "y": 90 },
+          { "model": "vine_1u_02", "y": 90 },
+          { "model": "vine_1u_03", "y": 90 }
+        ],
+        "east=false,north=true,south=false,up=true,west=false": [
+          { "model": "vine_1u_00", "y": 180 },
+          { "model": "vine_1u_01", "y": 180 },
+          { "model": "vine_1u_02", "y": 180 },
+          { "model": "vine_1u_03", "y": 180 }
+        ],
+        "east=true,north=false,south=false,up=true,west=false": [
+          { "model": "vine_1u_00", "y": 270 },
+          { "model": "vine_1u_01", "y": 270 },
+          { "model": "vine_1u_02", "y": 270 },
+          { "model": "vine_1u_03", "y": 270 }
+        ],
+        "east=true,north=true,south=false,up=true,west=false": [
+          { "model": "vine_2u_00" },
+          { "model": "vine_2u_01" },
+          { "model": "vine_2u_02" },
+          { "model": "vine_2u_03" }
+        ],
+        "east=true,north=false,south=true,up=true,west=false": [
+          { "model": "vine_2u_00", "y": 90 },
+          { "model": "vine_2u_01", "y": 90 },
+          { "model": "vine_2u_02", "y": 90 },
+          { "model": "vine_2u_03", "y": 90 }
+        ],
+        "east=false,north=false,south=true,up=true,west=true": [
+          { "model": "vine_2u_00", "y": 180 },
+          { "model": "vine_2u_01", "y": 180 },
+          { "model": "vine_2u_02", "y": 180 },
+          { "model": "vine_2u_03", "y": 180 }
+        ],
+        "east=false,north=true,south=false,up=true,west=true": [
+          { "model": "vine_2u_00", "y": 270 },
+          { "model": "vine_2u_01", "y": 270 },
+          { "model": "vine_2u_02", "y": 270 },
+          { "model": "vine_2u_03", "y": 270 }
+        ],
+        "east=true,north=false,south=false,up=true,west=true": [
+          { "model": "vine_2u_opposite_00" },
+          { "model": "vine_2u_opposite_01" },
+          { "model": "vine_2u_opposite_02" },
+          { "model": "vine_2u_opposite_03" }
+        ],
+        "east=false,north=true,south=true,up=true,west=false": [
+          { "model": "vine_2u_opposite_00", "y": 90 },
+          { "model": "vine_2u_opposite_01", "y": 90 },
+          { "model": "vine_2u_opposite_02", "y": 90 },
+          { "model": "vine_2u_opposite_03", "y": 90 }
+        ],
+        "east=true,north=true,south=true,up=true,west=false": [
+          { "model": "vine_3u_00" },
+          { "model": "vine_3u_01" },
+          { "model": "vine_3u_02" },
+          { "model": "vine_3u_03" }
+        ],
+        "east=true,north=false,south=true,up=true,west=true": [
+          { "model": "vine_3u_00", "y": 90 },
+          { "model": "vine_3u_01", "y": 90 },
+          { "model": "vine_3u_02", "y": 90 },
+          { "model": "vine_3u_03", "y": 90 }
+        ],
+        "east=false,north=true,south=true,up=true,west=true": [
+          { "model": "vine_3u_00", "y": 180 },
+          { "model": "vine_3u_01", "y": 180 },
+          { "model": "vine_3u_02", "y": 180 },
+          { "model": "vine_3u_03", "y": 180 }
+        ],
+        "east=true,north=true,south=false,up=true,west=true": [
+          { "model": "vine_3u_00", "y": 270 },
+          { "model": "vine_3u_01", "y": 270 },
+          { "model": "vine_3u_02", "y": 270 },
+          { "model": "vine_3u_03", "y": 270 }
+        ],
+        "east=true,north=true,south=true,up=true,west=true": [
+          { "model": "vine_4u_00" },
+          { "model": "vine_4u_01" },
+          { "model": "vine_4u_02" },
+          { "model": "vine_4u_03" }
+        ]
+    }
+}

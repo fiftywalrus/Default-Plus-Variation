@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "half=bottom": [
+          { "model": "half_slab_cobblestone_00" },
+          { "model": "half_slab_cobblestone_01" },
+          { "model": "half_slab_cobblestone_02" },
+          { "model": "half_slab_cobblestone_03" }
+        ],
+        "half=top": [
+          { "model": "upper_slab_cobblestone_00" },
+          { "model": "upper_slab_cobblestone_01" },
+          { "model": "upper_slab_cobblestone_02" },
+          { "model": "upper_slab_cobblestone_03" }
+        ]
+    }
+}

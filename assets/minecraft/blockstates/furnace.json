@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=north": [
+          { "model": "furnace_00" },
+          { "model": "furnace_01" },
+          { "model": "furnace_02" },
+          { "model": "furnace_03" }
+        ],
+        "facing=south": [
+          { "model": "furnace_00", "y": 180 },
+          { "model": "furnace_01", "y": 180 },
+          { "model": "furnace_02", "y": 180 },
+          { "model": "furnace_03", "y": 180 }
+        ],
+        "facing=west": [
+          { "model": "furnace_00", "y": 270 },
+          { "model": "furnace_01", "y": 270 },
+          { "model": "furnace_02", "y": 270 },
+          { "model": "furnace_03", "y": 270 }
+        ],
+        "facing=east": [
+          { "model": "furnace_00", "y": 90 },
+          { "model": "furnace_01", "y": 90 },
+          { "model": "furnace_02", "y": 90 },
+          { "model": "furnace_03", "y": 90 }
+        ]
+    }
+}

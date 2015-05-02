@@ -1,0 +1,100 @@
+{
+    "variants": {
+        "facing=north,half=bottom,open=false": [
+            { "model": "wooden_trapdoor_bottom_00" },
+            { "model": "wooden_trapdoor_bottom_01" },
+            { "model": "wooden_trapdoor_bottom_02" },
+            { "model": "wooden_trapdoor_bottom_03" }
+        ],
+        "facing=south,half=bottom,open=false": [
+            { "model": "wooden_trapdoor_bottom_00" },
+            { "model": "wooden_trapdoor_bottom_01" },
+            { "model": "wooden_trapdoor_bottom_02" },
+            { "model": "wooden_trapdoor_bottom_03" }
+        ],
+        "facing=east,half=bottom,open=false": [
+            { "model": "wooden_trapdoor_bottom_00" },
+            { "model": "wooden_trapdoor_bottom_01" },
+            { "model": "wooden_trapdoor_bottom_02" },
+            { "model": "wooden_trapdoor_bottom_03" }
+        ],
+        "facing=west,half=bottom,open=false": [
+            { "model": "wooden_trapdoor_bottom_00" },
+            { "model": "wooden_trapdoor_bottom_01" },
+            { "model": "wooden_trapdoor_bottom_02" },
+            { "model": "wooden_trapdoor_bottom_03" }
+        ],
+        "facing=north,half=top,open=false": [
+            { "model": "wooden_trapdoor_top_00" },
+            { "model": "wooden_trapdoor_top_01" },
+            { "model": "wooden_trapdoor_top_02" },
+            { "model": "wooden_trapdoor_top_03" }
+        ],
+        "facing=south,half=top,open=false": [
+            { "model": "wooden_trapdoor_top_00" },
+            { "model": "wooden_trapdoor_top_01" },
+            { "model": "wooden_trapdoor_top_02" },
+            { "model": "wooden_trapdoor_top_03" }
+        ],
+        "facing=east,half=top,open=false": [
+            { "model": "wooden_trapdoor_top_00" },
+            { "model": "wooden_trapdoor_top_01" },
+            { "model": "wooden_trapdoor_top_02" },
+            { "model": "wooden_trapdoor_top_03" }
+        ],
+        "facing=west,half=top,open=false": [
+            { "model": "wooden_trapdoor_top_00" },
+            { "model": "wooden_trapdoor_top_01" },
+            { "model": "wooden_trapdoor_top_02" },
+            { "model": "wooden_trapdoor_top_03" }
+        ],
+        "facing=north,half=bottom,open=true": [
+            { "model": "wooden_trapdoor_open_00" },
+            { "model": "wooden_trapdoor_open_01" },
+            { "model": "wooden_trapdoor_open_02" },
+            { "model": "wooden_trapdoor_open_03" }
+        ],
+        "facing=south,half=bottom,open=true": [
+            { "model": "wooden_trapdoor_open_00", "y": 180 },
+            { "model": "wooden_trapdoor_open_01", "y": 180 },
+            { "model": "wooden_trapdoor_open_02", "y": 180 },
+            { "model": "wooden_trapdoor_open_03", "y": 180 }
+        ],
+        "facing=east,half=bottom,open=true": [
+            { "model": "wooden_trapdoor_open_00", "y": 90 },
+            { "model": "wooden_trapdoor_open_01", "y": 90 },
+            { "model": "wooden_trapdoor_open_02", "y": 90 },
+            { "model": "wooden_trapdoor_open_03", "y": 90 }
+        ],
+        "facing=west,half=bottom,open=true": [
+            { "model": "wooden_trapdoor_open_00", "y": 270 },
+            { "model": "wooden_trapdoor_open_01", "y": 270 },
+            { "model": "wooden_trapdoor_open_02", "y": 270 },
+            { "model": "wooden_trapdoor_open_03", "y": 270 }
+        ],
+        "facing=north,half=top,open=true": [
+            { "model": "wooden_trapdoor_open_00" },
+            { "model": "wooden_trapdoor_open_01" },
+            { "model": "wooden_trapdoor_open_02" },
+            { "model": "wooden_trapdoor_open_03" }
+        ],
+        "facing=south,half=top,open=true": [
+            { "model": "wooden_trapdoor_open_00", "y": 180 },
+            { "model": "wooden_trapdoor_open_01", "y": 180 },
+            { "model": "wooden_trapdoor_open_02", "y": 180 },
+            { "model": "wooden_trapdoor_open_03", "y": 180 }
+        ],
+        "facing=east,half=top,open=true": [
+            { "model": "wooden_trapdoor_open_00", "y": 90 },
+            { "model": "wooden_trapdoor_open_01", "y": 90 },
+            { "model": "wooden_trapdoor_open_02", "y": 90 },
+            { "model": "wooden_trapdoor_open_03", "y": 90 }
+        ],
+        "facing=west,half=top,open=true": [
+            { "model": "wooden_trapdoor_open_00", "y": 270 },
+            { "model": "wooden_trapdoor_open_01", "y": 270 },
+            { "model": "wooden_trapdoor_open_02", "y": 270 },
+            { "model": "wooden_trapdoor_open_03", "y": 270 }
+        ]
+    }
+}

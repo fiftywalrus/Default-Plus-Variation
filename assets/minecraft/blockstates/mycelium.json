@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "snowy=false": [
+          { "model": "mycelium_00" },
+          { "model": "mycelium_01" },
+          { "model": "mycelium_02" },
+          { "model": "mycelium_03" }
+        ],
+        "snowy=true": [
+          { "model": "grass_snowed_00" },
+          { "model": "grass_snowed_01" },
+          { "model": "grass_snowed_02" },
+          { "model": "grass_snowed_03" }
+        ]
+    }
+}

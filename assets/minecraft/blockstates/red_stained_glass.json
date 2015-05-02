@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "glass_red_00" },
+          { "model": "glass_red_01" },
+          { "model": "glass_red_02" },
+          { "model": "glass_red_03" }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "eye=false,facing=south": [
+          { "model": "end_portal_frame_empty_00" },
+          { "model": "end_portal_frame_empty_01" },
+          { "model": "end_portal_frame_empty_02" },
+          { "model": "end_portal_frame_empty_03" }
+        ],
+        "eye=false,facing=west": [
+          { "model": "end_portal_frame_empty_00", "y": 90 },
+          { "model": "end_portal_frame_empty_01", "y": 90 },
+          { "model": "end_portal_frame_empty_02", "y": 90 },
+          { "model": "end_portal_frame_empty_03", "y": 90 }
+        ],
+        "eye=false,facing=north": [
+          { "model": "end_portal_frame_empty_00", "y": 180 },
+          { "model": "end_portal_frame_empty_01", "y": 180 },
+          { "model": "end_portal_frame_empty_02", "y": 180 },
+          { "model": "end_portal_frame_empty_03", "y": 180 }
+        ],
+        "eye=false,facing=east": [
+          { "model": "end_portal_frame_empty_00", "y": 270 },
+          { "model": "end_portal_frame_empty_01", "y": 270 },
+          { "model": "end_portal_frame_empty_02", "y": 270 },
+          { "model": "end_portal_frame_empty_03", "y": 270 }
+        ],
+        "eye=true,facing=south": [
+          { "model": "end_portal_frame_filled_00" },
+          { "model": "end_portal_frame_filled_01" },
+          { "model": "end_portal_frame_filled_02" },
+          { "model": "end_portal_frame_filled_03" }
+        ],
+        "eye=true,facing=west": [
+          { "model": "end_portal_frame_filled_00", "y": 90 },
+          { "model": "end_portal_frame_filled_01", "y": 90 },
+          { "model": "end_portal_frame_filled_02", "y": 90 },
+          { "model": "end_portal_frame_filled_03", "y": 90 }
+        ],
+        "eye=true,facing=north": [
+          { "model": "end_portal_frame_filled_00", "y": 180 },
+          { "model": "end_portal_frame_filled_01", "y": 180 },
+          { "model": "end_portal_frame_filled_02", "y": 180 },
+          { "model": "end_portal_frame_filled_03", "y": 180 }
+        ],
+        "eye=true,facing=east": [
+          { "model": "end_portal_frame_filled_00", "y": 270 },
+          { "model": "end_portal_frame_filled_01", "y": 270 },
+          { "model": "end_portal_frame_filled_02", "y": 270 },
+          { "model": "end_portal_frame_filled_03", "y": 270 }
+        ]
+    }
+}

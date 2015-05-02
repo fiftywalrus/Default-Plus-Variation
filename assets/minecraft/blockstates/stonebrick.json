@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stonebrick_normal_00" },
+            { "model": "stonebrick_normal_01" },
+            { "model": "stonebrick_normal_02" },
+            { "model": "stonebrick_normal_03" }
+        ]
+    }
+}

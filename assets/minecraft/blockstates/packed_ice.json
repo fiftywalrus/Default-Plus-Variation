@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "packed_ice_00" },
+          { "model": "packed_ice_01" },
+          { "model": "packed_ice_02" },
+          { "model": "packed_ice_03" }
+        ]
+    }
+}

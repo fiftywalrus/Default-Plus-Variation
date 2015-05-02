@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "netherrack_00" },
+          { "model": "netherrack_01" },
+          { "model": "netherrack_02" },
+          { "model": "netherrack_03" }
+        ]
+    }
+}

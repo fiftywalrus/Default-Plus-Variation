@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "axis=y": [
+          { "model": "hay_00" },
+          { "model": "hay_01" },
+          { "model": "hay_02" },
+          { "model": "hay_03" }
+        ],
+        "axis=z": [
+          { "model": "hay_side_00" },
+          { "model": "hay_side_01" },
+          { "model": "hay_side_02" },
+          { "model": "hay_side_03" }
+        ],
+        "axis=x": [
+          { "model": "hay_side_00", "y": 90 },
+          { "model": "hay_side_01", "y": 90 },
+          { "model": "hay_side_02", "y": 90 },
+          { "model": "hay_side_03", "y": 90 }
+        ]
+    }
+}

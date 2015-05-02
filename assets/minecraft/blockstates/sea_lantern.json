@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "sea_lantern_00" },
+          { "model": "sea_lantern_01" },
+          { "model": "sea_lantern_02" },
+          { "model": "sea_lantern_03" }
+        ]
+    }
+}

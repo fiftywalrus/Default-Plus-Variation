@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "waterlily_00" },
+            { "model": "waterlily_01" },
+            { "model": "waterlily_02" },
+            { "model": "waterlily_03" },
+            { "model": "waterlily_00", "y": 90 },
+            { "model": "waterlily_01", "y": 90 },
+            { "model": "waterlily_02", "y": 90 },
+            { "model": "waterlily_03", "y": 90 },
+            { "model": "waterlily_00", "y": 180 },
+            { "model": "waterlily_01", "y": 180 },
+            { "model": "waterlily_02", "y": 180 },
+            { "model": "waterlily_03", "y": 180 },
+            { "model": "waterlily_00", "y": 270 },
+            { "model": "waterlily_01", "y": 270 },
+            { "model": "waterlily_02", "y": 270 },
+            { "model": "waterlily_03", "y": 270 }
+        ]
+    }
+}

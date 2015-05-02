@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "glowstone_00" },
+          { "model": "glowstone_01" },
+          { "model": "glowstone_02" },
+          { "model": "glowstone_03" }
+        ]
+    }
+}

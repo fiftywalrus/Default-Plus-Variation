@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "obsidian_00" },
+          { "model": "obsidian_01" },
+          { "model": "obsidian_02" },
+          { "model": "obsidian_03" }
+        ]
+    }
+}

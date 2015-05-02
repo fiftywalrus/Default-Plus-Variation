@@ -1,0 +1,148 @@
+{
+    "variants": {
+        "facing=down,short=false,type=normal": [ 
+          { "model": "piston_head_normal_00", "x": 90 },
+          { "model": "piston_head_normal_01", "x": 90 },
+          { "model": "piston_head_normal_02", "x": 90 },
+          { "model": "piston_head_normal_03", "x": 90 }
+        ],
+        "facing=up,short=false,type=normal": [ 
+          { "model": "piston_head_normal_00", "x": 270 },
+          { "model": "piston_head_normal_01", "x": 270 },
+          { "model": "piston_head_normal_02", "x": 270 },
+          { "model": "piston_head_normal_03", "x": 270 }
+        ],
+        "facing=north,short=false,type=normal": [ 
+          { "model": "piston_head_normal_00" },
+          { "model": "piston_head_normal_01" },
+          { "model": "piston_head_normal_02" },
+          { "model": "piston_head_normal_03" }
+        ],
+        "facing=south,short=false,type=normal": [ 
+          { "model": "piston_head_normal_00", "y": 180 },
+          { "model": "piston_head_normal_01", "y": 180 },
+          { "model": "piston_head_normal_02", "y": 180 },
+          { "model": "piston_head_normal_03", "y": 180 }
+        ],
+        "facing=west,short=false,type=normal": [ 
+          { "model": "piston_head_normal_00", "y": 270 },
+          { "model": "piston_head_normal_01", "y": 270 },
+          { "model": "piston_head_normal_02", "y": 270 },
+          { "model": "piston_head_normal_03", "y": 270 }
+        ],
+        "facing=east,short=false,type=normal": [ 
+          { "model": "piston_head_normal_00", "y": 90 },
+          { "model": "piston_head_normal_01", "y": 90 },
+          { "model": "piston_head_normal_02", "y": 90 },
+          { "model": "piston_head_normal_03", "y": 90 }
+        ],
+        "facing=down,short=false,type=sticky": [ 
+          { "model": "piston_head_sticky_00", "x": 90 },
+          { "model": "piston_head_sticky_01", "x": 90 },
+          { "model": "piston_head_sticky_02", "x": 90 },
+          { "model": "piston_head_sticky_03", "x": 90 }
+        ],
+        "facing=up,short=false,type=sticky": [ 
+          { "model": "piston_head_sticky_00", "x": 270 },
+          { "model": "piston_head_sticky_01", "x": 270 },
+          { "model": "piston_head_sticky_02", "x": 270 },
+          { "model": "piston_head_sticky_03", "x": 270 }
+        ],
+        "facing=north,short=false,type=sticky": [ 
+          { "model": "piston_head_sticky_00" },
+          { "model": "piston_head_sticky_01" },
+          { "model": "piston_head_sticky_02" },
+          { "model": "piston_head_sticky_03" }
+        ],
+        "facing=south,short=false,type=sticky": [ 
+          { "model": "piston_head_sticky_00", "y": 180 },
+          { "model": "piston_head_sticky_01", "y": 180 },
+          { "model": "piston_head_sticky_02", "y": 180 },
+          { "model": "piston_head_sticky_03", "y": 180 }
+        ],
+        "facing=west,short=false,type=sticky": [ 
+          { "model": "piston_head_sticky_00", "y": 270 },
+          { "model": "piston_head_sticky_01", "y": 270 },
+          { "model": "piston_head_sticky_02", "y": 270 },
+          { "model": "piston_head_sticky_03", "y": 270 }
+        ],
+        "facing=east,short=false,type=sticky": [ 
+          { "model": "piston_head_sticky_00", "y": 90 },
+          { "model": "piston_head_sticky_01", "y": 90 },
+          { "model": "piston_head_sticky_02", "y": 90 },
+          { "model": "piston_head_sticky_03", "y": 90 }
+        ],
+        "facing=down,short=true,type=normal": [ 
+          { "model": "piston_head_short_normal_00", "x": 90 },
+          { "model": "piston_head_short_normal_01", "x": 90 },
+          { "model": "piston_head_short_normal_02", "x": 90 },
+          { "model": "piston_head_short_normal_03", "x": 90 }
+        ],
+        "facing=up,short=true,type=normal": [ 
+          { "model": "piston_head_short_normal_00", "x": 270 },
+          { "model": "piston_head_short_normal_01", "x": 270 },
+          { "model": "piston_head_short_normal_02", "x": 270 },
+          { "model": "piston_head_short_normal_03", "x": 270 }
+        ],
+        "facing=north,short=true,type=normal": [ 
+          { "model": "piston_head_short_normal_00" },
+          { "model": "piston_head_short_normal_01" },
+          { "model": "piston_head_short_normal_02" },
+          { "model": "piston_head_short_normal_03" }
+        ],
+        "facing=south,short=true,type=normal": [ 
+          { "model": "piston_head_short_normal_00", "y": 180 },
+          { "model": "piston_head_short_normal_01", "y": 180 },
+          { "model": "piston_head_short_normal_02", "y": 180 },
+          { "model": "piston_head_short_normal_03", "y": 180 }
+        ],
+        "facing=west,short=true,type=normal": [ 
+          { "model": "piston_head_short_normal_00", "y": 270 },
+          { "model": "piston_head_short_normal_01", "y": 270 },
+          { "model": "piston_head_short_normal_02", "y": 270 },
+          { "model": "piston_head_short_normal_03", "y": 270 }
+        ],
+        "facing=east,short=true,type=normal": [ 
+          { "model": "piston_head_short_normal_00", "y": 90 },
+          { "model": "piston_head_short_normal_01", "y": 90 },
+          { "model": "piston_head_short_normal_02", "y": 90 },
+          { "model": "piston_head_short_normal_03", "y": 90 }
+        ],
+        "facing=down,short=true,type=sticky": [ 
+          { "model": "piston_head_short_sticky_00", "x": 90 },
+          { "model": "piston_head_short_sticky_01", "x": 90 },
+          { "model": "piston_head_short_sticky_02", "x": 90 },
+          { "model": "piston_head_short_sticky_03", "x": 90 }
+        ],
+        "facing=up,short=true,type=sticky": [ 
+          { "model": "piston_head_short_sticky_00", "x": 270 },
+          { "model": "piston_head_short_sticky_01", "x": 270 },
+          { "model": "piston_head_short_sticky_02", "x": 270 },
+          { "model": "piston_head_short_sticky_03", "x": 270 }
+        ],
+        "facing=north,short=true,type=sticky": [ 
+          { "model": "piston_head_short_sticky_00" },
+          { "model": "piston_head_short_sticky_01" },
+          { "model": "piston_head_short_sticky_02" },
+          { "model": "piston_head_short_sticky_03" }
+        ],
+        "facing=south,short=true,type=sticky": [ 
+          { "model": "piston_head_short_sticky_00", "y": 180 },
+          { "model": "piston_head_short_sticky_01", "y": 180 },
+          { "model": "piston_head_short_sticky_02", "y": 180 },
+          { "model": "piston_head_short_sticky_03", "y": 180 }
+        ],
+        "facing=west,short=true,type=sticky": [ 
+          { "model": "piston_head_short_sticky_00", "y": 270 },
+          { "model": "piston_head_short_sticky_01", "y": 270 },
+          { "model": "piston_head_short_sticky_02", "y": 270 },
+          { "model": "piston_head_short_sticky_03", "y": 270 }
+        ],
+        "facing=east,short=true,type=sticky": [ 
+          { "model": "piston_head_short_sticky_00", "y": 90 },
+          { "model": "piston_head_short_sticky_01", "y": 90 },
+          { "model": "piston_head_short_sticky_02", "y": 90 },
+          { "model": "piston_head_short_sticky_03", "y": 90 }
+        ]
+    }
+}

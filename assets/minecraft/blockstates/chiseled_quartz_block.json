@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "quartz_chiseled_00" },
+          { "model": "quartz_chiseled_01" },
+          { "model": "quartz_chiseled_02" },
+          { "model": "quartz_chiseled_03" }
+        ]
+    }
+}
+

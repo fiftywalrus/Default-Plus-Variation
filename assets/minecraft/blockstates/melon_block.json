@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "melon_00" },
+          { "model": "melon_01" },
+          { "model": "melon_02" },
+          { "model": "melon_03" }
+        ]
+    }
+}

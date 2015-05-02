@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "end_stone_00" },
+          { "model": "end_stone_01" },
+          { "model": "end_stone_02" },
+          { "model": "end_stone_03" }
+        ]
+    }
+}

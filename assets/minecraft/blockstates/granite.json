@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "granite_00" },
+          { "model": "granite_01" },
+          { "model": "granite_02" },
+          { "model": "granite_03" }
+        ]
+    }
+}

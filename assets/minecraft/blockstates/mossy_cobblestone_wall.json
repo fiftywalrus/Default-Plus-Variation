@@ -1,0 +1,196 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,up=false,west=false": [
+          { "model": "mossy_wall_post_00" },
+          { "model": "mossy_wall_post_01" },
+          { "model": "mossy_wall_post_02" },
+          { "model": "mossy_wall_post_03" }
+        ],
+        "east=false,north=true,south=false,up=false,west=false": [
+          { "model": "mossy_wall_n_00" },
+          { "model": "mossy_wall_n_01" },
+          { "model": "mossy_wall_n_02" },
+          { "model": "mossy_wall_n_03" }
+        ],
+        "east=true,north=false,south=false,up=false,west=false": [
+          { "model": "mossy_wall_n_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_n_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_n_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_n_03", "y": 90, "uvlock": true }
+        ],
+        "east=false,north=false,south=true,up=false,west=false": [
+          { "model": "mossy_wall_n_00", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_n_01", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_n_02", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_n_03", "y": 180, "uvlock": true }
+        ],
+        "east=false,north=false,south=false,up=false,west=true": [
+          { "model": "mossy_wall_n_00", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_n_01", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_n_02", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_n_03", "y": 270, "uvlock": true }
+        ],
+        "east=true,north=true,south=false,up=false,west=false": [
+          { "model": "mossy_wall_ne_00" },
+          { "model": "mossy_wall_ne_01" },
+          { "model": "mossy_wall_ne_02" },
+          { "model": "mossy_wall_ne_03" }
+        ],
+        "east=true,north=false,south=true,up=false,west=false": [
+          { "model": "mossy_wall_ne_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ne_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ne_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ne_03", "y": 90, "uvlock": true }
+        ],
+        "east=false,north=false,south=true,up=false,west=true": [
+          { "model": "mossy_wall_ne_00", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_ne_01", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_ne_02", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_ne_03", "y": 180, "uvlock": true }
+        ],
+        "east=false,north=true,south=false,up=false,west=true": [
+          { "model": "mossy_wall_ne_00", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_ne_01", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_ne_02", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_ne_03", "y": 270, "uvlock": true }
+        ],
+        "east=false,north=true,south=true,up=false,west=false": [
+          { "model": "mossy_wall_ns_00" },
+          { "model": "mossy_wall_ns_01" },
+          { "model": "mossy_wall_ns_02" },
+          { "model": "mossy_wall_ns_03" }
+        ],
+        "east=true,north=false,south=false,up=false,west=true": [
+          { "model": "mossy_wall_ns_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ns_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ns_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ns_03", "y": 90, "uvlock": true }
+        ],
+        "east=true,north=true,south=true,up=false,west=false": [
+          { "model": "mossy_wall_nse_00" },
+          { "model": "mossy_wall_nse_01" },
+          { "model": "mossy_wall_nse_02" },
+          { "model": "mossy_wall_nse_03" }
+        ],
+        "east=true,north=false,south=true,up=false,west=true": [
+          { "model": "mossy_wall_nse_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_nse_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_nse_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_nse_03", "y": 90, "uvlock": true }
+        ],
+        "east=false,north=true,south=true,up=false,west=true": [
+          { "model": "mossy_wall_nse_00", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_nse_01", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_nse_02", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_nse_03", "y": 180, "uvlock": true }
+        ],
+        "east=true,north=true,south=false,up=false,west=true": [
+          { "model": "mossy_wall_nse_00", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_nse_01", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_nse_02", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_nse_03", "y": 270, "uvlock": true }
+        ],
+        "east=true,north=true,south=true,up=false,west=true": [
+          { "model": "mossy_wall_nsew_00" },
+          { "model": "mossy_wall_nsew_01" },
+          { "model": "mossy_wall_nsew_02" },
+          { "model": "mossy_wall_nsew_03" }
+        ],
+        "east=false,north=false,south=false,up=true,west=false": [
+          { "model": "mossy_wall_post_00" },
+          { "model": "mossy_wall_post_01" },
+          { "model": "mossy_wall_post_02" },
+          { "model": "mossy_wall_post_03" }
+        ],
+        "east=false,north=true,south=false,up=true,west=false": [
+          { "model": "mossy_wall_n_00" },
+          { "model": "mossy_wall_n_01" },
+          { "model": "mossy_wall_n_02" },
+          { "model": "mossy_wall_n_03" }
+        ],
+        "east=true,north=false,south=false,up=true,west=false": [
+          { "model": "mossy_wall_n_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_n_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_n_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_n_03", "y": 90, "uvlock": true }
+        ],
+        "east=false,north=false,south=true,up=true,west=false": [
+          { "model": "mossy_wall_n_00", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_n_01", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_n_02", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_n_03", "y": 180, "uvlock": true }
+        ],
+        "east=false,north=false,south=false,up=true,west=true": [
+          { "model": "mossy_wall_n_00", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_n_01", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_n_02", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_n_03", "y": 270, "uvlock": true }
+        ],
+        "east=true,north=true,south=false,up=true,west=false": [
+          { "model": "mossy_wall_ne_00" },
+          { "model": "mossy_wall_ne_01" },
+          { "model": "mossy_wall_ne_02" },
+          { "model": "mossy_wall_ne_03" }
+        ],
+        "east=true,north=false,south=true,up=true,west=false": [
+          { "model": "mossy_wall_ne_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ne_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ne_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ne_03", "y": 90, "uvlock": true }
+        ],
+        "east=false,north=false,south=true,up=true,west=true": [
+          { "model": "mossy_wall_ne_00", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_ne_01", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_ne_02", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_ne_03", "y": 180, "uvlock": true }
+        ],
+        "east=false,north=true,south=false,up=true,west=true": [
+          { "model": "mossy_wall_ne_00", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_ne_01", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_ne_02", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_ne_03", "y": 270, "uvlock": true }
+        ],
+        "east=false,north=true,south=true,up=true,west=false": [
+          { "model": "mossy_wall_ns_above_00" },
+          { "model": "mossy_wall_ns_above_01" },
+          { "model": "mossy_wall_ns_above_02" },
+          { "model": "mossy_wall_ns_above_03" }
+        ],
+        "east=true,north=false,south=false,up=true,west=true": [
+          { "model": "mossy_wall_ns_above_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ns_above_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ns_above_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_ns_above_03", "y": 90, "uvlock": true }
+        ],
+        "east=true,north=true,south=true,up=true,west=false": [
+          { "model": "mossy_wall_nse_00" },
+          { "model": "mossy_wall_nse_01" },
+          { "model": "mossy_wall_nse_02" },
+          { "model": "mossy_wall_nse_03" }
+        ],
+        "east=true,north=false,south=true,up=true,west=true": [
+          { "model": "mossy_wall_nse_00", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_nse_01", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_nse_02", "y": 90, "uvlock": true },
+          { "model": "mossy_wall_nse_03", "y": 90, "uvlock": true }
+        ],
+        "east=false,north=true,south=true,up=true,west=true": [
+          { "model": "mossy_wall_nse_00", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_nse_01", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_nse_02", "y": 180, "uvlock": true },
+          { "model": "mossy_wall_nse_03", "y": 180, "uvlock": true }
+        ],
+        "east=true,north=true,south=false,up=true,west=true": [
+          { "model": "mossy_wall_nse_00", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_nse_01", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_nse_02", "y": 270, "uvlock": true },
+          { "model": "mossy_wall_nse_03", "y": 270, "uvlock": true }
+        ],
+        "east=true,north=true,south=true,up=true,west=true": [
+          { "model": "mossy_wall_nsew_00" },
+          { "model": "mossy_wall_nsew_01" },
+          { "model": "mossy_wall_nsew_02" },
+          { "model": "mossy_wall_nsew_03" }
+        ]
+    }
+}

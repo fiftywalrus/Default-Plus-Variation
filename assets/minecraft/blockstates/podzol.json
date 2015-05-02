@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "snowy=false": [
+          { "model": "podzol_00" },
+          { "model": "podzol_01" },
+          { "model": "podzol_02" },
+          { "model": "podzol_03" }
+        ],
+        "snowy=true": [
+          { "model": "grass_snowed_00" },
+          { "model": "grass_snowed_01" },
+          { "model": "grass_snowed_02" },
+          { "model": "grass_snowed_03" }
+        ]
+    }
+}

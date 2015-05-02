@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "tnt_00" },
+            { "model": "tnt_01" },
+            { "model": "tnt_02" },
+            { "model": "tnt_03" }
+        ]
+    }
+}

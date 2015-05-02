@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "axis=y": [
+          { "model": "quartz_lines_00" },
+          { "model": "quartz_lines_01" },
+          { "model": "quartz_lines_02" },
+          { "model": "quartz_lines_03" }
+        ],
+        "axis=z": [
+          { "model": "quartz_lines_00", "x": 90 },
+          { "model": "quartz_lines_01", "x": 90 },
+          { "model": "quartz_lines_02", "x": 90 },
+          { "model": "quartz_lines_03", "x": 90 }
+        ],
+        "axis=x": [
+          { "model": "quartz_lines_00", "x": 90, "y": 90 },
+          { "model": "quartz_lines_01", "x": 90, "y": 90 },
+          { "model": "quartz_lines_02", "x": 90, "y": 90 },
+          { "model": "quartz_lines_03", "x": 90, "y": 90 }
+        ]
+    }
+}
+

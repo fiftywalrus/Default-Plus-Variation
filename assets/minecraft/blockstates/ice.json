@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "ice_00" },
+          { "model": "ice_01" },
+          { "model": "ice_02" },
+          { "model": "ice_03" }
+        ]
+    }
+}

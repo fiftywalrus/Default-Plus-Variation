@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "crafting_table_00" },
+          { "model": "crafting_table_01" },
+          { "model": "crafting_table_02" },
+          { "model": "crafting_table_03" }
+        ]
+    }
+}

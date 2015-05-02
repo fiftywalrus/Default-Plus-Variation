@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "unlit_redstone_lamp_00" },
+          { "model": "unlit_redstone_lamp_01" },
+          { "model": "unlit_redstone_lamp_02" },
+          { "model": "unlit_redstone_lamp_03" }
+        ]
+    }
+}

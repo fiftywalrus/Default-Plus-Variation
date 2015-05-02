@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "iron_ore_00" },
+          { "model": "iron_ore_01" },
+          { "model": "iron_ore_02" },
+          { "model": "iron_ore_03" }
+        ]
+    }
+}

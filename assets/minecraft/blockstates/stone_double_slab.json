@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "double_stone_00" },
+            { "model": "double_stone_01" },
+            { "model": "double_stone_02" },
+            { "model": "double_stone_03" }
+        ],
+        "all": [
+            { "model": "double_stone_top_00" },
+            { "model": "double_stone_top_01" },
+            { "model": "double_stone_top_02" },
+            { "model": "double_stone_top_03" }
+        ]
+    }
+}

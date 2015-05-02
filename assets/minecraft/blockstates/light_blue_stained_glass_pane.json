@@ -1,0 +1,101 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": [
+            { "model": "light_blue_pane_nsew_00" },
+            { "model": "light_blue_pane_nsew_01" },
+            { "model": "light_blue_pane_nsew_02" },
+            { "model": "light_blue_pane_nsew_03" }
+        ],
+        "east=false,north=true,south=false,west=false": [
+            { "model": "light_blue_pane_n_00" },
+            { "model": "light_blue_pane_n_01" },
+            { "model": "light_blue_pane_n_02" },
+            { "model": "light_blue_pane_n_03" }
+        ],
+        "east=true,north=false,south=false,west=false": [
+            { "model": "light_blue_pane_n_00", "y": 90 },
+            { "model": "light_blue_pane_n_01", "y": 90 },
+            { "model": "light_blue_pane_n_02", "y": 90 },
+            { "model": "light_blue_pane_n_03", "y": 90 }
+        ],
+        "east=false,north=false,south=true,west=false": [
+            { "model": "light_blue_pane_s_00" },
+            { "model": "light_blue_pane_s_01" },
+            { "model": "light_blue_pane_s_02" },
+            { "model": "light_blue_pane_s_03" }
+        ],
+        "east=false,north=false,south=false,west=true": [
+            { "model": "light_blue_pane_s_00", "y": 90 },
+            { "model": "light_blue_pane_s_01", "y": 90 },
+            { "model": "light_blue_pane_s_02", "y": 90 },
+            { "model": "light_blue_pane_s_03", "y": 90 }
+        ],
+        "east=true,north=true,south=false,west=false": [
+            { "model": "light_blue_pane_ne_00" },
+            { "model": "light_blue_pane_ne_01" },
+            { "model": "light_blue_pane_ne_02" },
+            { "model": "light_blue_pane_ne_03" }
+        ],
+        "east=true,north=false,south=true,west=false": [
+            { "model": "light_blue_pane_se_00" },
+            { "model": "light_blue_pane_se_01" },
+            { "model": "light_blue_pane_se_02" },
+            { "model": "light_blue_pane_se_03" }
+        ],
+        "east=false,north=false,south=true,west=true": [
+            { "model": "light_blue_pane_sw_00" },
+            { "model": "light_blue_pane_sw_01" },
+            { "model": "light_blue_pane_sw_02" },
+            { "model": "light_blue_pane_sw_03" }
+        ],
+        "east=false,north=true,south=false,west=true": [
+            { "model": "light_blue_pane_nw_00" },
+            { "model": "light_blue_pane_nw_01" },
+            { "model": "light_blue_pane_nw_02" },
+            { "model": "light_blue_pane_nw_03" }
+        ],
+        "east=false,north=true,south=true,west=false": [
+            { "model": "light_blue_pane_ns_00" },
+            { "model": "light_blue_pane_ns_01" },
+            { "model": "light_blue_pane_ns_02" },
+            { "model": "light_blue_pane_ns_03" }
+        ],
+        "east=true,north=false,south=false,west=true": [
+            { "model": "light_blue_pane_ns_00", "y": 90 },
+            { "model": "light_blue_pane_ns_01", "y": 90 },
+            { "model": "light_blue_pane_ns_02", "y": 90 },
+            { "model": "light_blue_pane_ns_03", "y": 90 }
+        ],
+        "east=true,north=true,south=true,west=false": [
+            { "model": "light_blue_pane_nse_00" },
+            { "model": "light_blue_pane_nse_01" },
+            { "model": "light_blue_pane_nse_02" },
+            { "model": "light_blue_pane_nse_03" }
+        ],
+        "east=true,north=false,south=true,west=true": [
+            { "model": "light_blue_pane_sew_00" },
+            { "model": "light_blue_pane_sew_01" },
+            { "model": "light_blue_pane_sew_02" },
+            { "model": "light_blue_pane_sew_03" }
+        ],
+        "east=false,north=true,south=true,west=true": [
+            { "model": "light_blue_pane_nsw_00" },
+            { "model": "light_blue_pane_nsw_01" },
+            { "model": "light_blue_pane_nsw_02" },
+            { "model": "light_blue_pane_nsw_03" }
+        ],
+        "east=true,north=true,south=false,west=true": [
+            { "model": "light_blue_pane_new_00" },
+            { "model": "light_blue_pane_new_01" },
+            { "model": "light_blue_pane_new_02" },
+            { "model": "light_blue_pane_new_03" }
+        ],
+        "east=true,north=true,south=true,west=true": [
+            { "model": "light_blue_pane_nsew_00" },
+            { "model": "light_blue_pane_nsew_01" },
+            { "model": "light_blue_pane_nsew_02" },
+            { "model": "light_blue_pane_nsew_03" }
+        ]
+    }
+}
+

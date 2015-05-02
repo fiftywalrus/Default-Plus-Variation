@@ -1,0 +1,83 @@
+{
+    "variants": {
+        "variant=north_west": [
+          { "model": "red_mushroom_block_nw_00" },
+          { "model": "red_mushroom_block_nw_01" },
+          { "model": "red_mushroom_block_nw_02" },
+          { "model": "red_mushroom_block_nw_03" }
+        ],
+        "variant=north": [
+          { "model": "red_mushroom_block_n_00" },
+          { "model": "red_mushroom_block_n_01" },
+          { "model": "red_mushroom_block_n_02" },
+          { "model": "red_mushroom_block_n_03" }
+        ],
+        "variant=north_east": [
+          { "model": "red_mushroom_block_ne_00" },
+          { "model": "red_mushroom_block_ne_01" },
+          { "model": "red_mushroom_block_ne_02" },
+          { "model": "red_mushroom_block_ne_03" }
+        ],
+        "variant=west": [
+          { "model": "red_mushroom_block_w_00" },
+          { "model": "red_mushroom_block_w_01" },
+          { "model": "red_mushroom_block_w_02" },
+          { "model": "red_mushroom_block_w_03" }
+        ],
+        "variant=center": [
+          { "model": "red_mushroom_block_c_00" },
+          { "model": "red_mushroom_block_c_01" },
+          { "model": "red_mushroom_block_c_02" },
+          { "model": "red_mushroom_block_c_03" }
+        ],
+        "variant=east": [
+          { "model": "red_mushroom_block_e_00" },
+          { "model": "red_mushroom_block_e_01" },
+          { "model": "red_mushroom_block_e_02" },
+          { "model": "red_mushroom_block_e_03" }
+        ],
+        "variant=south_west": [
+          { "model": "red_mushroom_block_sw_00" },
+          { "model": "red_mushroom_block_sw_01" },
+          { "model": "red_mushroom_block_sw_02" },
+          { "model": "red_mushroom_block_sw_03" }
+        ],
+        "variant=south": [
+          { "model": "red_mushroom_block_s_00" },
+          { "model": "red_mushroom_block_s_01" },
+          { "model": "red_mushroom_block_s_02" },
+          { "model": "red_mushroom_block_s_03" }
+        ],
+        "variant=south_east": [
+          { "model": "red_mushroom_block_se_00" },
+          { "model": "red_mushroom_block_se_01" },
+          { "model": "red_mushroom_block_se_02" },
+          { "model": "red_mushroom_block_se_03" }
+        ],
+        "variant=stem": [
+          { "model": "red_mushroom_block_stem_00" },
+          { "model": "red_mushroom_block_stem_01" },
+          { "model": "red_mushroom_block_stem_02" },
+          { "model": "red_mushroom_block_stem_03" }
+        ],
+        "variant=all_stem": [
+          { "model": "red_mushroom_block_stem_all_00" },
+          { "model": "red_mushroom_block_stem_all_01" },
+          { "model": "red_mushroom_block_stem_all_02" },
+          { "model": "red_mushroom_block_stem_all_03" }
+        ],
+        "variant=all_outside": [
+          { "model": "red_mushroom_block_cap_all_00" },
+          { "model": "red_mushroom_block_cap_all_01" },
+          { "model": "red_mushroom_block_cap_all_02" },
+          { "model": "red_mushroom_block_cap_all_03" }
+        ],
+        "variant=all_inside": [
+          { "model": "red_mushroom_block_inside_all_00" },
+          { "model": "red_mushroom_block_inside_all_01" },
+          { "model": "red_mushroom_block_inside_all_02" },
+          { "model": "red_mushroom_block_inside_all_03" }
+        ]
+    }
+}
+

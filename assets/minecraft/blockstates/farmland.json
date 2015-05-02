@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "moisture=0": [
+          { "model": "farmland_dry_00" },
+          { "model": "farmland_dry_01" },
+          { "model": "farmland_dry_02" },
+          { "model": "farmland_dry_03" }
+        ],
+        "moisture=1": [
+          { "model": "farmland_dry_00" },
+          { "model": "farmland_dry_01" },
+          { "model": "farmland_dry_02" },
+          { "model": "farmland_dry_03" }
+        ],
+        "moisture=2": [
+          { "model": "farmland_dry_00" },
+          { "model": "farmland_dry_01" },
+          { "model": "farmland_dry_02" },
+          { "model": "farmland_dry_03" }
+        ],
+        "moisture=3": [
+          { "model": "farmland_dry_00" },
+          { "model": "farmland_dry_01" },
+          { "model": "farmland_dry_02" },
+          { "model": "farmland_dry_03" }
+        ],
+        "moisture=4": [
+          { "model": "farmland_dry_00" },
+          { "model": "farmland_dry_01" },
+          { "model": "farmland_dry_02" },
+          { "model": "farmland_dry_03" }
+        ],
+        "moisture=5": [
+          { "model": "farmland_dry_00" },
+          { "model": "farmland_dry_01" },
+          { "model": "farmland_dry_02" },
+          { "model": "farmland_dry_03" }
+        ],
+        "moisture=6": [
+          { "model": "farmland_dry_00" },
+          { "model": "farmland_dry_01" },
+          { "model": "farmland_dry_02" },
+          { "model": "farmland_dry_03" }
+        ],
+        "moisture=7": [
+          { "model": "farmland_moist_00" },
+          { "model": "farmland_moist_01" },
+          { "model": "farmland_moist_02" },
+          { "model": "farmland_moist_03" }
+        ]
+    }
+}

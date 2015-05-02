@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "diamond_block_00" },
+          { "model": "diamond_block_01" },
+          { "model": "diamond_block_02" },
+          { "model": "diamond_block_03" }
+        ]
+    }
+}
