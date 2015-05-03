@@ -3,10 +3,10 @@
     "textures": {
         "particle": "blocks/mushroom_block_inside_03",
         "down": "blocks/mushroom_block_inside_03",
-        "up": "blocks/mushroom_block_skin_redv",
+        "up": "blocks/mushroom_block_skin_red_03",
         "north": "blocks/mushroom_block_inside_03",
         "east": "blocks/mushroom_block_inside_03",
-        "south": "blocks/mushroom_block_insidev",
+        "south": "blocks/mushroom_block_inside_03",
         "west": "blocks/mushroom_block_skin_red_03"
     }
 }
