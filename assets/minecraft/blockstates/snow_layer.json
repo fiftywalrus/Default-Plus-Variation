@@ -19,10 +19,10 @@
           { "model": "snow_height6_03" }
         ],
         "layers=4": [
-          { "model": "snow00" },
-          { "model": "snow01" },
-          { "model": "snow02" },
-          { "model": "snow03" }
+          { "model": "snow_height8_00" },
+          { "model": "snow_height8_01" },
+          { "model": "snow_height8_02" },
+          { "model": "snow_height8_03" }
         ],
         "layers=5": [
           { "model": "snow_height10_00" },
