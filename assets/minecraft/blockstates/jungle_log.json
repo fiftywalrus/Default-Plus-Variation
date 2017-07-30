@@ -7,16 +7,16 @@
           { "model": "jungle_log_03" }
         ],
         "axis=z": [
-          { "model": "jungle_log_side_00" },
-          { "model": "jungle_log_side_01" },
-          { "model": "jungle_log_side_02" },
-          { "model": "jungle_log_side_03" }
-        ],
-        "axis=x": [
-          { "model": "jungle_log_side_00", "y": 90 },
-          { "model": "jungle_log_side_01", "y": 90 },
-          { "model": "jungle_log_side_02", "y": 90 },
-          { "model": "jungle_log_side_03", "y": 90 }
+          { "model": "jungle_log_00", "x": 90 },
+          { "model": "jungle_log_01", "x": 90 },
+          { "model": "jungle_log_02", "x": 90 },
+          { "model": "jungle_log_03", "x": 90 }
+        ],			    
+        "axis=x": [		    
+          { "model": "jungle_log_00", "x": 90, "y": 90 },
+          { "model": "jungle_log_01", "x": 90, "y": 90 },
+          { "model": "jungle_log_02", "x": 90, "y": 90 },
+          { "model": "jungle_log_03", "x": 90, "y": 90 }
         ],
         "axis=none": [
           { "model": "jungle_bark_00" },
